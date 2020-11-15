@@ -1,3 +1,4 @@
+<?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("red"," ===========================\n");
@@ -10,9 +11,3 @@ echo color("red","| Creator : kumpulanremaja.com          |\n");
 echo "| Version : Premium X pertalite      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
-@@ -184,4 +187,4 @@
-         }
-//  }
-
-// echo change()."\n"; 
-// echo change()."\n";
